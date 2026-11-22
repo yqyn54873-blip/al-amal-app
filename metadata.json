@@ -1,0 +1,6 @@
+{
+  "name": "أوستا - Ousta | منصة الحرفيين في العراق",
+  "description": "منصة أوستا تربط أمهر الحرفيين والمهنيين بالزبائن في جميع محافظات العراق الثماني عشرة مع حجز فوري ودفع إلكتروني وملاحة ويز وشركاء التوصيل.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

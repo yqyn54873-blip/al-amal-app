@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --ousta-teal: #008594;
+    --ousta-teal-dark: #006B78;
+    --ousta-orange: #EF7D1A;
+    --ousta-orange-dark: #D96B0B;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'IBM Plex Sans Arabic', 'Cairo', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Cairo', 'IBM Plex Sans Arabic', system-ui, sans-serif;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
